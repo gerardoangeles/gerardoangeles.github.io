@@ -12,3 +12,5 @@ git add --all
 git commit -m "json"
 git push -u origin main
 git status
+
+(Esperar a que refresque, se tarda)
