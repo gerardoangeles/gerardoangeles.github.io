@@ -9,7 +9,7 @@ The -- tells git that all other arguments are files, not parameters.
 git status
 git fetch origin
 git add --all
-git commit -m "motivo"
+git commit -m "elektro"
 git push -u origin main
 git status
 
